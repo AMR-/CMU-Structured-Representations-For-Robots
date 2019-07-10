@@ -25,9 +25,9 @@ env = RobotNavEnv(random_hole_pos=False, is_state_cart=True, include_stage_boole
 
 If you use RobotNavigation in a project, please cite the following papers (bibtex found below):
 
-    Aaron M. Roth, Nicholay Topin, Pooyan Jamshidi, and Manuela Veloso. Conservative q-improvement: Reinforcement learning for an interpretable decision-tree policy. In _arXiv 1907.01180_, 2019
+ Aaron M. Roth, Nicholay Topin, Pooyan Jamshidi, and Manuela Veloso. Conservative q-improvement: Reinforcement learning for an interpretable decision-tree policy. In _arXiv 1907.01180_, 2019
 
-    Tom M Mitchell and Sebastian B Thrun. "Explanation-based neural network learning for robot control." _In Advances in neural information processing systems,_ pages 287–294, 1993.
+ Tom M Mitchell and Sebastian B Thrun. "Explanation-based neural network learning for robot control." _In Advances in neural information processing systems,_ pages 287–294, 1993.
 
 Bibtex:
 
