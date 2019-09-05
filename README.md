@@ -1,6 +1,19 @@
 # CMU-Structured-Representations-For-Robots
 Code to go along with the Master's Thesis "Structured Representations for Behaviors of Autonomous Robots" by Aaron M. Roth
 
+The Master's Thesis can be cited as followss:
+
+    @mastersthesis{Roth-2019-117131,
+    author = {Aaron Roth},
+    title = {Structured Representations for Behaviors of Autonomous Robots},
+    year = {2019},
+    month = {July},
+    school = {},
+    address = {Pittsburgh, PA},
+    number = {CMU-RI-TR-19-50},
+    keywords = {Artificial Intelligence, Explainable Artificial Intelligence, Human Robot Interaction, Reinforcement Learning, Decision Trees, Robotics Frameworks, Instruction Graph, Learning by Instruction},
+    }
+
 In the **Interactive_TAIG** folder, find sample code for the Interactive TAIG demonstration.
 
 In the **RobotNavigation** folder, find code for the OpenAI compatible RobotNavigation environment.
