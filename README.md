@@ -8,7 +8,7 @@ The Master's Thesis can be cited as followss:
     title = {Structured Representations for Behaviors of Autonomous Robots},
     year = {2019},
     month = {July},
-    school = {},
+    school = {Carnegie Mellon University},
     address = {Pittsburgh, PA},
     number = {CMU-RI-TR-19-50},
     keywords = {Artificial Intelligence, Explainable Artificial Intelligence, Human Robot Interaction, Reinforcement Learning, Decision Trees, Robotics Frameworks, Instruction Graph, Learning by Instruction},
